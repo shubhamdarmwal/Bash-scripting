@@ -1,4 +1,4 @@
-# Bash-scripting-joruney
+# Bash-scripting-journey
 
 Welcome to my Bash scripting journey! This repository is a collection of scripts and notes as I delve into the world of Bash scripting. Whether you're a beginner or an experienced scripter, I hope you find something useful here.
 
